@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../public/css/estilo.css">
+</head>
+<body>
+    <div class="container">
+        <div class="fondo">
+            <img src="../public/img/fondo.jpg" alt="fondo Harry Potter">
+        </div>
+        <h1>Harry Potter Api</h1>
+        <p>Proporciona una serie de rutas que permiten a los usuarios acceder y gestionar información sobre los personajes de Harry Potter. Los usuarios pueden realizar diversas operaciones, como listar personajes, buscar por ID o nombre, filtrar por casa o género y ordenarlos de diversas maneras.</p>
+        <p>Utilice estas rutas para solicitar datos sobre los personajes de Harry Potter:</p>
+        <div class="rutas">
+            <ul>
+                <li>Todos los personajes:
+                    <a href="http://localhost:3000/personajes">http://localhost:3000/personajes</a></li>
+                <li>Un personaje específico, basado en su ID único:
+                    <a href="http://localhost:3000/personajes/:id">http://localhost:3000/personajes/:id</a></li>
+                <li>Un personaje específico, basado en su nombre:
+                    <a href="http://localhost:3000/personajes/nombre/:nombre">http://localhost:3000/personajes/nombre/:nombre</a></li>
+                <li>Personajes de una determinada casa, por ejemplo, /Gryffindor:
+                    <a href="http://localhost:3000/personajes/casa/:casa">http://localhost:3000/personajes/casa/:casa</a></li>
+                <li>Personajes de un determinado genero, por ejemplo, /mujer:
+                    <a href="http://localhost:3000/personajes/genero/:genero">http://localhost:3000/personajes/genero/:genero</a></li>
+                <li>Ordenar los personajes en orden ascendente en base al id:
+                    <a href="http://localhost:3000/personajes/orden/ascendente">http://localhost:3000/personajes/orden/ascendente</a></li>
+                <li>Ordenar los personajes en orden descendente en base al id:
+                    <a href="http://localhost:3000/personajes/orden/descendente">http://localhost:3000/personajes/orden/descendente</a></li>
+            </ul>
+        </div>
+        <p>Utilice estas rutas para solicitar datos sobre los actores de Harry Potter:</p>
+        <div class="rutas">
+            <ul>
+                <li>Todos los actores:
+                    <a href="http://localhost:3000/actores">http://localhost:3000/actores</a></li>
+                <li>Un actor específico, basado en su ID único:
+                    <a href="http://localhost:3000/actores/:id">http://localhost:3000/actores/:id</a></li>
+                <li>Un actor específico, basado en su nombre:
+                    <a href="http://localhost:3000/actores/nombre/:nombre">http://localhost:3000/actores/nombre/:nombre</a></li>
+                <li>Actores de un determinado genero, por ejemplo, /hombre:
+                    <a href="http://localhost:3000/actores/genero/:genero">http://localhost:3000/actores/genero/:genero</a></li>
+                    <li>Actor en base de su año de nacimiento, /:año:
+                        <a href="http://localhost:3000/actores/nacimiento/:añoNacimiento">http://localhost:3000/actores/nacimiento/:añoNacimiento"</a></li>
+                <li>Ordenar los actores en orden ascendente en base al id:
+                    <a href="http://localhost:3000/actores/orden/ascendente">http://localhost:3000/actores/orden/ascendente</a></li>
+                <li>Ordenar los actores en orden descendente en base al id:
+                    <a href="http://localhost:3000/actores/orden/descendente">http://localhost:3000/actores/orden/descendente</a></li>
+            </ul>
+        </div>
+    </div>
+    
+</body>
+</html>

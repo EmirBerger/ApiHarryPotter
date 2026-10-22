@@ -1,0 +1,250 @@
+[
+    {
+        "id": 1,
+        "nombre": "Daniel",
+        "apellido": "Radcliffe",
+        "genero": "masculino",
+        "fechaNacimiento": "23-07-1989",
+        "imagen": "https://www.famousbirthdays.com/faces/radcliffe-daniel-image.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Emma",
+        "apellido": "Watson",
+        "genero": "femenino",
+        "fechaNacimiento": "15-04-1990",
+        "imagen": "https://www.famousbirthdays.com/headshots/emma-watson-4.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Rupert",
+        "apellido": "Grint",
+        "genero": "masculino",
+        "fechaNacimiento": "24-08-1988",
+        "imagen": "https://www.famousbirthdays.com/headshots/rupert-grint-2.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Tom",
+        "apellido": "Felton",
+        "genero": "masculino",
+        "fechaNacimiento": "22-09-1987",
+        "imagen": "https://www.famousbirthdays.com/faces/felton-tom-image.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Maggie",
+        "apellido": "Smith",
+        "genero": "femenino",
+        "fechaNacimiento": "28-12-1934",
+        "imagen": "https://tellyspotting.kera.org/wp-content/uploads/2014/12/Dame-Maggie-Smith-at-80.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Robert",
+        "apellido": "Pattinson",
+        "genero": "masculino",
+        "fechaNacimiento": "13-05-1986",
+        "imagen": "https://www.famousbirthdays.com/headshots/robert-pattinson-4.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Katie",
+        "apellido": "Leung",
+        "genero": "femenino",
+        "fechaNacimiento": "8-08-1987",
+        "imagen": "https://www.famousbirthdays.com/headshots/katie-leung-5.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Alan",
+        "apellido": "Rickman",
+        "genero": "masculino",
+        "fechaNacimiento": "21-02-1946",
+        "imagen": "https://www.famousbirthdays.com/headshots/alan-rickman-6.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Robbie",
+        "apellido": "Coltrane",
+        "genero": "masculino",
+        "fechaNacimiento": "30-03-1950",
+        "imagen": "https://www.famousbirthdays.com/faces/coltrane-robbie-image.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Matthew",
+        "apellido": "Lewis",
+        "genero": "masculino",
+        "fechaNacimiento": "27-06-1989",
+        "imagen": "https://www.famousbirthdays.com/headshots/matthew-lewis-2.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Evanna",
+        "apellido": "Lynch",
+        "genero": "femenino",
+        "fechaNacimiento": "16-08-1991",
+        "imagen": "https://www.famousbirthdays.com/headshots/evanna-lynch-5.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Bonnie",
+        "apellido": "Wright",
+        "genero": "femenino",
+        "fechaNacimiento": "17-02-1991",
+        "imagen": "https://www.famousbirthdays.com/headshots/bonnie-wright-5.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Gary",
+        "apellido": "Oldman",
+        "genero": "masculino",
+        "fechaNacimiento": "21-03-1958",
+        "imagen": "https://www.famousbirthdays.com/faces/oldman-gary-image.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "David",
+        "apellido": "Thewlis",
+        "genero": "masculino",
+        "fechaNacimiento": "20-03-1963",
+        "imagen": "https://www.famousbirthdays.com/headshots/david-thewlis-5.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Mark",
+        "apellido": "Williams",
+        "genero": "masculino",
+        "fechaNacimiento": "22-08-1959",
+        "imagen": "https://www.famousbirthdays.com/headshots/mark-williams-2.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Helena",
+        "apellido": "Bonham",
+        "genero": "femenino",
+        "fechaNacimiento": "26-05-1966",
+        "imagen": "https://www.famousbirthdays.com/faces/carter-helenabonham-image.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Ralph",
+        "apellido": "Fiennes",
+        "genero": "masculino",
+        "fechaNacimiento": "22-12-1962",
+        "imagen": "https://www.famousbirthdays.com/faces/fiennes-ralph-image.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Jim",
+        "apellido": "Broadbent",
+        "genero": "masculino",
+        "fechaNacimiento": "24-05-1949",
+        "imagen": "https://www.famousbirthdays.com/headshots/jim-broadbent-8.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "George",
+        "apellido": "Harris",
+        "genero": "masculino",
+        "fechaNacimiento": "20-10-1949",
+        "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Ff8khi8MYyYv60GFs1cYpQ/1200x675mf.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Imelda",
+        "apellido": "Staunton",
+        "genero": "femenino",
+        "fechaNacimiento": "9-01-1956",
+        "imagen": "https://www.famousbirthdays.com/headshots/imelda-staunton-4.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Jason",
+        "apellido": "Isaacs",
+        "genero": "masculino",
+        "fechaNacimiento": "6-06-1963",
+        "imagen": "https://www.famousbirthdays.com/headshots/jason-isaacs-6.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Jamie",
+        "apellido": "Waylett",
+        "genero": "masculino",
+        "fechaNacimiento": "21-07-1989",
+        "imagen": "https://2.bp.blogspot.com/-xnco5lf3WD0/TpkWeiWUjII/AAAAAAAABs4/g4yoFaL4k2A/w1200-h630-p-k-no-nu/Jamie_Waylett_1.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Josh",
+        "apellido": "Herdman",
+        "genero": "masculino",
+        "fechaNacimiento": "26-03-1987",
+        "imagen": "https://m.media-amazon.com/images/S/pv-target-images/fdd7624f215d1b76dafcf6a0518b321448b8d15b45f0d21f14bf45b62f77e3b9.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Maxime",
+        "apellido": "the cat",
+        "genero": "femenino",
+        "fechaNacimiento": "",
+        "imagen": "https://i.pinimg.com/originals/86/4c/ce/864cce23de761194cd1ffcd25e8bcd4b.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "David",
+        "apellido": "Bradley",
+        "genero": "masculino",
+        "fechaNacimiento": "17-04-1942",
+        "imagen": "https://www.famousbirthdays.com/faces/bradley-david-image.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Richard",
+        "apellido": "Griffiths",
+        "genero": "masculino",
+        "fechaNacimiento": "31-07-1947",
+        "imagen": "https://www.famousbirthdays.com/headshots/richard-griffiths-4.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Fiona",
+        "apellido": "Shaw",
+        "genero": "femenino",
+        "fechaNacimiento": "10-07-1958",
+        "imagen": "https://www.famousbirthdays.com/headshots/fiona-shaw-2.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Harry",
+        "apellido": "Melling",
+        "genero": "masculino",
+        "fechaNacimiento": "marzo de 1989",
+        "imagen": "https://img.betaseries.com/b0jQ5Er6PT3CtL_LvjUOF8EIBM4=/600x600/smart/https%3A%2F%2Fpictures.betaseries.com%2Fpersons%2Fb0pHwi2MeqxEpeWnF4Llihu53aJ.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "Geraldine",
+        "apellido": "Somerville",
+        "genero": "femenino",
+        "fechaNacimiento": "19-05-1967",
+        "imagen": "https://www.famousbirthdays.com/faces/somerville-geraldine-image.jpg"
+    },
+    {
+        "id":30,
+        "nombre": "Adrian",
+        "apellido": "Rawlins",
+        "genero": "masculino",
+        "fechaNacimiento": "27-03-1958",
+        "imagen": "https://www.famousbirthdays.com/faces/rawlins-adrian-image.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Michael",
+        "apellido": "Gambon",
+        "genero": "masculino",
+        "fechaNacimiento": "19-10-1940",
+        "imagen": "https://mediamass.net/jdd/public/documents/celebrities/4547.jpg"
+    }
+]
