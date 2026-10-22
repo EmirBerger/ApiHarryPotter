@@ -2,7 +2,7 @@ BACKEND
 
 En MogoDB:
 1. Conecta MongoDB.
-2. Crea una base de datos llamada 'poter'.
+2. Crea una base de datos llamada 'potter'.
 3. Crea 2 colecciones llamadas 'personajes' y 'actores'.
 4. Importa el JSON correspondiente a cada colección que se encuentra en la carpeta data de la api.
 
